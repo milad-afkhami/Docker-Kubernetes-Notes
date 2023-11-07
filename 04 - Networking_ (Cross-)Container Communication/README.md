@@ -1,4 +1,4 @@
-# 03 - Managing Data & Working with Volumes
+# 04 - Networking (Cross-)Container Communication
 
 ### Slide 01
 
